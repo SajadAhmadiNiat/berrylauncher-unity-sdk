@@ -6,7 +6,7 @@ Connect your game to the **Berry (تمشک)** launcher: player name, room, playe
 Window > Package Manager > **+** > *Add package from git URL*:
 
 ```
-https://github.com/YOUR-NAME/berry-sdk.git?path=/Packages/com.berry.sdk#v1.4.0
+https://github.com/SajadAhmadiNiat/berrylauncher-unity-sdk.git?path=/Packages/com.berry.sdk#v1.4.0
 ```
 
 Then menu **Berry > Add Berry to scene**, fill *Game Id / Game Code / Game Number* from your panel at the Berry website (`/dev`), and put `berry-game.json` next to your exe.

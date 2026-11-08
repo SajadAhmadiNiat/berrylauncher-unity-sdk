@@ -1,0 +1,9 @@
+{
+  "name": "Berry.Sdk",
+  "rootNamespace": "BerrySdk",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true
+}

@@ -1,0 +1,12 @@
+{
+  "name": "com.berry.sdk",
+  "displayName": "Berry SDK",
+  "version": "1.4.0",
+  "unity": "2021.3",
+  "description": "Connect your game to the Berry launcher: player name, room, players, LAN and virtual-LAN rooms, network state, friends, presence, achievements, scores and signed identity tokens for your own server.",
+  "keywords": ["berry", "lan", "multiplayer", "launcher"],
+  "author": { "name": "Berry" },
+  "samples": [
+    { "displayName": "Berry Arena", "description": "A small complete game showing every SDK feature.", "path": "Samples~/BerryArena" }
+  ]
+}

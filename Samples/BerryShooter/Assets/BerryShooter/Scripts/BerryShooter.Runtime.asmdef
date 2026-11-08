@@ -1,0 +1,13 @@
+{
+  "name": "BerryShooter.Runtime",
+  "rootNamespace": "BerryShooter",
+  "references": [ "Berry.Sdk" ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

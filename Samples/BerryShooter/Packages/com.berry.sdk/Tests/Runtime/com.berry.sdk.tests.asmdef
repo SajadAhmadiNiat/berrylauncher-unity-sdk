@@ -1,0 +1,8 @@
+{
+  "name": "Berry.Sdk.Tests",
+  "references": ["Berry.Sdk", "UnityEngine.TestRunner", "UnityEditor.TestRunner"],
+  "includePlatforms": [],
+  "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+  "overrideReferences": true,
+  "precompiledReferences": ["nunit.framework.dll"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Berry.Sdk.Editor",
+  "rootNamespace": "BerrySdk.EditorTools",
+  "references": ["Berry.Sdk"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": []
+}

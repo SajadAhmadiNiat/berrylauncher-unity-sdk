@@ -4,9 +4,23 @@
   "version": "1.4.0",
   "unity": "2021.3",
   "description": "Connect your game to the Berry launcher: player name, room, players, LAN and virtual-LAN rooms, network state, friends, presence, achievements, scores and signed identity tokens for your own server.",
-  "keywords": ["berry", "lan", "multiplayer", "launcher"],
-  "author": { "name": "Berry" },
+  "keywords": [
+    "berry",
+    "lan",
+    "multiplayer",
+    "launcher"
+  ],
+  "author": {
+    "name": "Berry"
+  },
   "samples": [
-    { "displayName": "Berry Arena", "description": "A small complete game showing every SDK feature.", "path": "Samples~/BerryArena" }
-  ]
+    {
+      "displayName": "Berry Arena",
+      "description": "A small complete game showing every SDK feature.",
+      "path": "Samples~/BerryArena"
+    }
+  ],
+  "documentationUrl": "https://github.com/SajadAhmadiNiat/berrylauncher-unity-sdk#readme",
+  "changelogUrl": "https://github.com/SajadAhmadiNiat/berrylauncher-unity-sdk/blob/main/docs/CHANGELOG.md",
+  "licensesUrl": "https://github.com/SajadAhmadiNiat/berrylauncher-unity-sdk/blob/main/LICENSE"
 }

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "berry-shooter",
+  "displayName": "Berry Shooter",
+  "version": "1.1.0",
+  "executable": "BerryShooter.exe",
+  "maxPlayers": 8,
+  "gamePort": 7777,
+  "protocol": "both",
+  "connect": [
+    "lan",
+    "vlan",
+    "wireguard",
+    "ip"
+  ],
+  "hostArgs": [
+    "-host"
+  ],
+  "joinArgs": [
+    "-connect",
+    "{host}:{port}"
+  ],
+  "sdk": {
+    "permissions": [
+      "identity",
+      "room",
+      "players",
+      "presence",
+      "achievements",
+      "scores",
+      "token",
+      "network",
+      "lan",
+      "friends",
+      "profile"
+    ]
+  }
+}

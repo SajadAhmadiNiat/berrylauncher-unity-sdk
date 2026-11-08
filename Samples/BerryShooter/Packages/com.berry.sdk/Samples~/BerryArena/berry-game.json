@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "berry-arena",
+  "displayName": "Berry Arena",
+  "version": "1.0.0",
+  "executable": "BerryArena.exe",
+  "maxPlayers": 4,
+  "gamePort": 7777,
+  "protocol": "udp",
+  "connect": ["lan", "vlan", "wireguard", "ip"],
+  "hostArgs": ["-host"],
+  "joinArgs": ["-connect", "{host}:{port}"],
+  "sdk": { "permissions": ["identity", "room", "players", "presence", "achievements", "scores", "token", "network", "lan", "friends", "profile"] }
+}
